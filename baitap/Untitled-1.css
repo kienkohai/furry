@@ -1,0 +1,14 @@
+.content{
+    margin-bottom: 40px;
+}
+.content img{
+    width: 100%;
+    height: auto;
+}
+.content h2{
+    font-family: Verdana;
+    font-size: 24px;
+}
+.content p{
+    font-size: 15px;
+}
