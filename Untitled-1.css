@@ -1,0 +1,14 @@
+.menu{
+    margin-bottom: 40px;
+}
+.menu img{
+    width: 100%;
+    height: auto;
+}
+.menu demand{
+    font-family: Verdana;
+    font-size: 24px;
+}
+.menu row{
+    font-size: 15px;
+}

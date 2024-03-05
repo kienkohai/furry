@@ -1,0 +1,24 @@
+body{
+    background-color: beige;
+    font-family: Verdana;
+    gap: 20px;
+    padding: 20 px;
+}
+.header nav{
+    display: flex;
+    gap: 20px;
+    padding: 20 px;
+}
+.menu{
+    background-color: aquamarine;
+}
+.ros1 {
+    display: flex;
+    
+}
+.menu2{
+    display: flex;
+}
+.ros2{
+    display: flex;
+}
